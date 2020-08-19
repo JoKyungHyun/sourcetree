@@ -1,2 +1,8 @@
 - start1
+<<<<<<< HEAD
 - start2
+=======
+- start2
+- start3
+- start 4
+>>>>>>> test2
